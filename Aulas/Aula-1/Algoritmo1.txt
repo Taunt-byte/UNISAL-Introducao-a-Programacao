@@ -1,0 +1,20 @@
+[Algoritmo para somar dois números inteiros]
+
+[Início]
+
+[Declaração de variáveis]
+	num1, num2, soma: Inteiro
+
+[Entrada de dados]
+	escreva("Informe o primeiro número..:")
+	leia(num1)
+	escreva("Informe o segundo número...:")
+	leia(num2)
+
+[Processamento]
+	soma = num1 + num2
+	
+[Saída de dados]
+	escreva("A soma = ",soma)
+
+[Fim]
